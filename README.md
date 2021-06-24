@@ -1,3 +1,3 @@
 # Leetcode
 
-This is repository that I created to store my leetcode solutions.
+This repository is created for storing my leetcode solutions.
