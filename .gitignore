@@ -1,4 +1,4 @@
 # CMake
-cmake-build-*/
-*/CMakeLists.txt
-*/.idea/
+**/cmake-build-*/
+**/CMakeLists.txt
+**/.idea/
